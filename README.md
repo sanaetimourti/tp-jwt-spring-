@@ -44,7 +44,7 @@ ma.enset.jwtdemo
 │   └── JwtService.java              # Utility Class pour la création et la validation des JWT
 └── service
     └── CustomUserDetailsService.java # Service chargeant les utilisateurs depuis la base H2
-```<img width="455" height="566" alt="image" src="https://github.com/user-attachments/assets/5c0e9230-c192-4308-a797-d7c374c46afb" />
+```file:///C:/Users/SANAE%20PC/Desktop/Capture%20d%E2%80%99%C3%A9cran%202026-10-15%20193950.png
 
 
 ---
